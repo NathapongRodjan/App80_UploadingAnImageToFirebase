@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "554681053986",
+    "firebase_url": "https://app80uploadinganimagetofirebas.firebaseio.com",
+    "project_id": "app80uploadinganimagetofirebas",
+    "storage_bucket": "app80uploadinganimagetofirebas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554681053986:android:b82633eb4e97905c",
+        "android_client_info": {
+          "package_name": "com.example.nathapong.app80_uploadinganimagetofirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554681053986-30dp975ogmipif9ph0ugou3kjlv4in8g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nathapong.app80_uploadinganimagetofirebase",
+            "certificate_hash": "7abfad946c760354480c8ca80c946d9471f7a5cc"
+          }
+        },
+        {
+          "client_id": "554681053986-886t961163hu82ccujov2ah3p9ngmvgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuWGGeHFNc2Mt5nawdcxUj1uyMx_xnX00"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554681053986-886t961163hu82ccujov2ah3p9ngmvgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
